@@ -2,6 +2,9 @@
 title: about
 date: 2020-04-12 21:20:31
 ---
-
-Welcome to civilization furture v1.0
+这是一场马拉松，
+向土地要粮食，
+向天空要翅膀，
+只为
+用文字打败时间！
 
